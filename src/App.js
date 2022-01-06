@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './photo.JPG';
 import './App.css';
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
         <p>
           LETRILLARD<p></p> 
           Elorri<p></p>
-          19 ans<p></p>
+          19 ans...<p></p>
              </p>
         <a
           className="App-link"
